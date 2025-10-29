@@ -1,2 +1,1 @@
-# Thesis
-Error estimates of a spectral Petrov–Galerkin method for two-sided fractional reaction–diffusion equations
+"This repository contains MATLAB codes for my thesis on Petrov-Galerkin spectral method"
