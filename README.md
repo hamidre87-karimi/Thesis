@@ -17,7 +17,10 @@ Used in **Chapter 4** of my thesis (October 2025).
 | `Solution_Example2.m` | Plot u_N(x) for N=128 |
 | `Solution_Example3.m` | Plot u_N(x) for N=128 |
 | `demo_sigma_computation.m` | Generate σ/σ* table |
+| `jags.m` | Jacobi-Gauss quadrature points and weights |
+| `japoly.m` | Evaluate Jacobi polynomials and derivatives |
 
+## Jacobi Functions (from Shen et al., 2011)
 ---
 
 ## Requirements
