@@ -1,4 +1,4 @@
-# Petrov-Galerkin Spectral Method for Asymmetric Fractional PDEs
+# spectral Petrov–Galerkin method for two-sided fractional reaction–diffusion equations
 
 MATLAB implementation of the **Petrov-Galerkin spectral method** using **Jacobi bases** and **Gauss-Jacobi quadrature**.
 
