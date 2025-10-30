@@ -2,7 +2,7 @@
 
 # Spectral Petrov–Galerkin Method for Two-Sided Fractional Reaction–Diffusion Equations
 
-**MATLAB Implementation** using **Jacobi Poly-Fractonomials** and **Gauss-Jacobi Quadrature**  
+**MATLAB Implementation** using **Jacobi Polynomials** and **Gauss-Jacobi Quadrature**  
 *Chapter 4 – M.Sc. Thesis (October 2025)*
 
 </div>
@@ -46,7 +46,7 @@
 ---
 
 ## Method Overview
-- **Basis**: Jacobi poly-fractonomials \( P_n^{\alpha,\beta}(x) \)
+- **Basis**: Jacobi polynomials \( P_n^{\alpha,\beta}(x) \)
 - **Quadrature**: Gauss-Jacobi (exact for polynomials up to degree 2N+1)
 - **Petrov–Galerkin**: Test functions shifted by fractional order
 - **Stiffness & Mass Matrices**: Computed via quadrature (no explicit assembly)
